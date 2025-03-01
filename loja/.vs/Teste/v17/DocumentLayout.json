@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gpire\\source\\repos\\loja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\loja\\teste\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\loja\\teste\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\loja\\teste\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\loja\\teste\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\loja\\teste\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\loja\\teste\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\loja\\teste\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\loja\\teste\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\loja\\teste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\loja\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\loja\\teste\\teste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\teste.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Teste\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Models\\Produto.cs",
+              "RelativeToolTip": "Teste\\Models\\Produto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:39:23.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\appsettings.json",
+              "RelativeDocumentMoniker": "Teste\\appsettings.json",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\appsettings.json",
+              "RelativeToolTip": "Teste\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-23T11:50:37.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Teste\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Models\\Cliente.cs",
+              "RelativeToolTip": "Teste\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:40:17.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Teste\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Teste\\Services\\ClienteService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T11:40:13.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Teste\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Teste\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:29:53.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "Teste\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "Teste\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA8wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:17:50.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Teste\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "Teste\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAwFgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T13:17:54.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Teste\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Teste\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T18:29:48.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Teste\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Teste\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwI4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:32:53.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Program.cs",
+              "RelativeDocumentMoniker": "Teste\\Program.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Program.cs",
+              "RelativeToolTip": "Teste\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T19:44:01.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Teste.csproj",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Teste.csproj",
+              "RelativeDocumentMoniker": "Teste\\Teste.csproj",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\loja\\Teste\\Teste.csproj",
+              "RelativeToolTip": "Teste\\Teste.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-15T11:42:42.492Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

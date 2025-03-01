@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gpire\\source\\repos\\lojaback\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\lojaback\\teste\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\lojaback\\teste\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\services\\produtoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\lojaback\\teste\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\lojaback\\teste\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\lojaback\\teste\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\repositories\\produtorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\lojaback\\teste\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\lojaback\\teste\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\lojaback\\teste\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\lojaback\\teste\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|c:\\users\\gpire\\source\\repos\\lojaback\\teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E06048-E0EB-478E-9A25-0F9083FF83F5}|Teste\\Teste.csproj|solutionrelative:teste\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Teste\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Teste\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAtwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:58:56.57Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Teste\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Teste\\Controllers\\ClientesController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:01:32.203Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Teste\\Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Teste\\Controllers\\UsuariosController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T17:20:01.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Repositories\\ProdutoRepository.cs",
+              "RelativeDocumentMoniker": "Teste\\Repositories\\ProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Repositories\\ProdutoRepository.cs",
+              "RelativeToolTip": "Teste\\Repositories\\ProdutoRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAswEcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:50:56.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Teste\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Teste\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:50:32.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Repositories\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Teste\\Repositories\\ClienteRepository.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Repositories\\ClienteRepository.cs",
+              "RelativeToolTip": "Teste\\Repositories\\ClienteRepository.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:01:15.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Teste\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Models\\Cliente.cs",
+              "RelativeToolTip": "Teste\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T13:59:02.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Teste\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Models\\Produto.cs",
+              "RelativeToolTip": "Teste\\Models\\Produto.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswBEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:55:24.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoService.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Services\\ProdutoService.cs",
+              "RelativeDocumentMoniker": "Teste\\Services\\ProdutoService.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Services\\ProdutoService.cs",
+              "RelativeToolTip": "Teste\\Services\\ProdutoService.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAswHUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T16:51:03.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Program.cs",
+              "RelativeDocumentMoniker": "Teste\\Program.cs",
+              "ToolTip": "C:\\Users\\gpire\\source\\repos\\lojaback\\Teste\\Program.cs",
+              "RelativeToolTip": "Teste\\Program.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAwwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:50:44.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
